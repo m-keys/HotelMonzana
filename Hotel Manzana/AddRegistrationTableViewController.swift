@@ -1,4 +1,4 @@
-//
+ //
 //  AddRegistrationTableViewController.swift
 //  Hotel Manzana
 //
